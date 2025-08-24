@@ -9,4 +9,7 @@ A proposta do desafio foi implementar uma lógica para alterar o status de um bo
   - CSS  
   - JavaScript  
 
+<H2>Link:</H2>
+https://romolo-elias.github.io/Aluga-games/
+
   
